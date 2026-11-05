@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "products": [
+    {
+      "page": "index.html",
+      "name": "Lattafa Asad Bourbon",
+      "price": 89000
+    },
+    {
+      "page": "fakhar-rose.html",
+      "name": "Lattafa Fakhar Rose",
+      "price": 89000
+    },
+    {
+      "page": "khamrah-qahwa.html",
+      "name": "Lattafa Khamrah Qahwa",
+      "price": 79000
+    },
+    {
+      "page": "bharara-king.html",
+      "name": "Bharara King",
+      "price": 129000
+    },
+    {
+      "page": "club-de-nuit-intense-man-edt.html",
+      "name": "Armaf Club de Nuit Intense Man EDT",
+      "price": 109000
+    },
+    {
+      "page": "club-de-nuit-urban-man.html",
+      "name": "Armaf Club de Nuit Urban Man",
+      "price": 99000
+    },
+    {
+      "page": "club-de-nuit-blue-iconic.html",
+      "name": "Armaf Club de Nuit Blue Iconic",
+      "price": 119000
+    },
+    {
+      "page": "club-de-nuit-imperiale.html",
+      "name": "Armaf Club de Nuit Impériale",
+      "price": 119000
+    },
+    {
+      "page": "9am-dive.html",
+      "name": "Afnan 9AM Dive",
+      "price": 97000
+    },
+    {
+      "page": "shaheen-gold.html",
+      "name": "Lattafa Shaheen Gold",
+      "price": 89000
+    },
+    {
+      "page": "badee-al-oud-honor-glory.html",
+      "name": "Lattafa Badee Al Oud Honor & Glory",
+      "price": 69000
+    },
+    {
+      "page": "noble-blush.html",
+      "name": "Lattafa Badee Al Oud Noble Blush",
+      "price": 69000
+    },
+    {
+      "page": "yara-pink.html",
+      "name": "Lattafa Yara Pink",
+      "price": 89000
+    },
+    {
+      "page": "eclaire.html",
+      "name": "Lattafa Eclaire",
+      "price": 89000
+    },
+    {
+      "page": "odyssey-mandaryn-sky.html",
+      "name": "Armaf Odyssey Mandaryn Sky",
+      "price": 99000
+    }
+  ]
+}
